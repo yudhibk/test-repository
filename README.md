@@ -2,5 +2,5 @@ Test-repository
 ==
 Repository for testing purpose
 --
-* Timeline *
+*Timeline*
 - Test-up commit
